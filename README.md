@@ -1,4 +1,4 @@
-Hi, my name is fares but you can call me fareszz.
+Hi, my name is fares. "void isn’t always secure"
 
 📊 **programing languages:**
 
@@ -7,7 +7,7 @@ C#             █████████████████        94.00 
 C++            ██████████████           88.00 %
 Python         ███████████████████      99.00 %          
 Java           ████████████████         92.00 %    
-Sql            ████████████             66.00 %
+Sql            █████████████            74.00 %
 JavaScript     █████████████████        96.00 %
 Html + Css     ██████████████           85.00 %     
 
