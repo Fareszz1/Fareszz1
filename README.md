@@ -1,26 +1,28 @@
-Hi, my name is fares. "void isn’t always secure"
+Hi, ....
 
-📊 **programing languages:**
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=618ab6&random=True&width=835&lines=My+name+is+fares+void+isn't+always+secure+" alt="Typing SVG" />
+</a>
+</div>
 
-```txt
-C#             █████████████████        94.00 %
-C++            ██████████████           88.00 %
-Python         ███████████████████      99.00 %          
-Java           ████████████████         92.00 %    
-Sql            █████████████            74.00 %
-JavaScript     █████████████████        96.00 %
-Html + Css     ██████████████           85.00 %     
+<div align="center">
+  <img src="https://i.pinimg.com/736x/e5/7c/42/e57c4233b4888a5b656e89a39400d228.jpg">
+</div>
 
-```
+------------------------------------------------------------------------------------------
 
-📊 **certifications:**
+📊 **programing languages**
 
-```txt
-ejptV1         ███████████████████     100.00 %   
-```
+<p align="center">
+  <img src="assets/top-languages-card.svg" alt="Top Languages" />
+</p> 
+
+------------------------------------------------------------------------------------------
+
+📊 **certifications**
+
+<p align="center">
+  <img src="assets/certifications-card.svg" alt="Certifications" />
+</p>
 
 
-📈 **my github stats**
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fareszz1&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&count_private=true" alt="Anurag's github stats" /></a>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareszz1&layout=compact&theme=dark&hide_border=true" /></a> |
